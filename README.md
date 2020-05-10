@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Tetris-logo" title="#tetris" src="Tetris-logo.jpg" width="200px" />
+    <img alt="Tetris-logo" title="#tetris" src="Tetris-logo.jpg" width="400px" />
 </h1>
 
 <h4 align="center">
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Tetris é um Jogo clássico dos anos 90 simples porem, com complexidade mediana de ser produzido. Optei por realizar um novo projeto ReactJS iniciando por este jogo para testar meus avanços na linguagem e ver até onde posso ir como programador utilizando meus conhecimentos.
+O Tetris é um Jogo clássico dos anos 80 simples porem, com complexidade mediana de ser produzido. Optei por realizar um novo projeto ReactJS iniciando por este jogo para testar meus avanços na linguagem e ver até onde posso ir como programador utilizando meus conhecimentos.
 
 ## 🤔 Como contribuir
 
