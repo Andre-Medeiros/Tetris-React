@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Tetris-logo" title="#tetris" src="Tetris-logo.png" width="200px" />
+    <img alt="Tetris-logo" title="#tetris" src="Tetris-logo.jpg" width="200px" />
 </h1>
 
 <h4 align="center">
