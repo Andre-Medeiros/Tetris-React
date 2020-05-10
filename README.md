@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#tetris" src="bethehero.svg" width="200px" />
+    <img alt="Tetris-logo" title="#tetris" src="Tetris-logo.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Tetris" src="bethehero.png" width="100%">
+  <img alt="Tetris" src="Tetris.png" width="100%">
 </p>
 
 ## Tecnologias
