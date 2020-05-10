@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Tetris – ReactJS
+  🚀 Tetris – ReactJS (EM DESENVOLVIMENTO!!)
 </h4>
 
 <p align="center">
